@@ -1,41 +1,15 @@
-# Научиться учиться. Лендинг для Яндекс.Практикума
+# Путешествия по России - проектная работа Яндекс.Практимума
+
 ---
 
-Проект представляет собой одностраничный сайт.
+Проект представляет собой одностраничный сайт, рассказывающий об интересных местах для путешествий на территории России. Страница сверстана по макету из Figma и адаптирована под различные устройства (от 320px).
 
-## Стек
+---
+
+## Используемые технологии
 * HTML
 * CSS
-
-## Реализация
-* Flexbox вёрстка
-* CSS-анимация
-* Файловая структура проекта по правилам Nested БЭМ
-
-## Планы по доработке
-* Адаптировать сайт для просмотра на разных устройствах
-
-## Ссылка на сайт:
-https://github.com/Timur359/how-to-learn.git
-
----
-
-# How to learn. The second project for Yandex.Praktikum
----
-
-The single page website is created using some advanced features of HTML and CSS.
-
-## Stack
-* HTML
-* CSS
-
-## Realization
-* Flexbox layout
-* CSS-animation
-* The Nested BEM file stucture
-
-## Future improvements
-* To optimize website for different screen sizes
-
-## URL:
-https://github.com/Timur359/how-to-learn.git
+* BEM
+* Flexbox
+* Grid Layout
+* Figma
