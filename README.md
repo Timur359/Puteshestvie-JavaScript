@@ -13,3 +13,5 @@
 * Flexbox
 * Grid Layout
 * Figma
+
+[Ссылка на проект](https://timur359.github.io/yet-another-project/)
