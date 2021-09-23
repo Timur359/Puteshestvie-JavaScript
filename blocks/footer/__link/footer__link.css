@@ -5,12 +5,12 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 18px;
-    transition: .5s ease-in-out;
+    transition: .3s ease-in-out;
     padding-right: 18px;
 }
 
 .footer__link:hover {
-    opacity: .5;
+    opacity: .4;
 }
 
 @media screen and (max-width: 767px) {
