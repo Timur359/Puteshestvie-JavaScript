@@ -3,7 +3,7 @@
     width: 100%;
     text-align: center;
     position: relative;
-    background-image: url(/image/cover/__background.jpg);
+    background-image: url(../../image/cover/__background.jpg);
     background-size: cover;
 }
 
