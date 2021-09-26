@@ -1,30 +1,15 @@
 .cover {
-    max-width: 1184px;
     margin: 0 auto;
-    display: grid;
-    position: relative;
-    grid-template-rows: repeat(2, min-content);
-    grid-gap: 32px;
-}
-
-.cover:before {
-    content: '';
     width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #2A2C2F;
-    opacity: .3;
-    transition: .3s ease;
+    text-align: center;
+    position: relative;
+    background-image: url(../../image/cover/__background.jpg);
+    background-size: cover;
 }
 
-.cover:hover::before {
-    opacity: .8;
-}
-
-@media screen and (max-width: 767px) {
+@media screen and (min-width: 1280px) {
     .cover {
-        grid-gap: 16px;
+        margin: 0 auto;
+        max-width: 1184px;
     }
 }
